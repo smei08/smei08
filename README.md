@@ -31,7 +31,7 @@ i'm currently sharpening my React skills, revisiting the fundamentals, and worki
 
 ## a little more
 
-when i'm not coding i'm usually doing something creative — calligraphy, content, making things with my hands. i think that background actually makes me a better developer. design sense and attention to detail matter.
+when i'm not coding i'm usually doing something creative — calligraphy, design, making things with my hands. i think that background actually makes me a better developer. design sense and attention to detail matter.
 
 currently open to frontend dev roles. i'm a quick learner, i ship things, and i care about the details.
 
